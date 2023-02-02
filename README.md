@@ -1,0 +1,2 @@
+# OpenCVLrn
+Notes about OpenCV
